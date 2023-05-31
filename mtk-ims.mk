@@ -1,10 +1,10 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/realme/IMS-RMX3031
+    vendor/oneplus/IMS-denniz
 
 # Apps
 PRODUCT_PACKAGES += \
     ImsService \
-	EngineerMode
+    EngineerMode
 
 # Radio IMS Boot Jar
 PRODUCT_BOOT_JARS += \

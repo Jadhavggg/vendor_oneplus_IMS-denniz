@@ -1,5 +1,5 @@
 dex_import {
 	name: "mediatek-telecom-common",
-	owner: "realme",
+	owner: "oneplus",
 	jars: ["mediatek-telecom-common.jar"],
 }

@@ -1,5 +1,5 @@
 dex_import {
 	name: "mediatek-ims-common",
-	owner: "realme",
+	owner: "oneplus",
 	jars: ["mediatek-ims-common.jar"],
 }
