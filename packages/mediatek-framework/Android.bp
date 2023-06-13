@@ -1,5 +1,0 @@
-dex_import {
-	name: "mediatek-framework",
-	owner: "oneplus",
-	jars: ["mediatek-framework.jar"],
-}
