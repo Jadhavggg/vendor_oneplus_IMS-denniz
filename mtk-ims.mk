@@ -1,5 +1,5 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/oneplus/IMS-denniz
+    vendor/oneplus/IMS-ivan
 
 # Apps
 PRODUCT_PACKAGES += \
